@@ -1,4 +1,4 @@
-# Lab01_Interface_-humain-machine
+# Laboratoire 01
 420-411-MV INTERFACES HUMAIN-MACHINE
 
 ## Personne:
